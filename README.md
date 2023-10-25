@@ -64,7 +64,7 @@ sku: 102030002
 |No.|	Step	|Read more|
 |:------|:-----------------|:-----------------|
 |1|	Install Arduino IDE 1.8.13  (Windows version)
-|2|	Install [ LinkIt SDK]
+|2|	Install [  LinkIt SDK] (https://github.com/Juanmorales177809/linkitOne)
 |3|	Install LinkIt ONE drivers.
 |6|	Update the on-board firmware version.
 |7| Add folder Linklt at C:\Users\<your user>\AppData\Local\Arduino15\packages
@@ -80,13 +80,13 @@ sku: 102030002
 
 ### Installing Drivers
 
-- Download driver (https://github.com/Juanmorales177809/linkitOne)
+- Download driver [  Linkit DRIVER] (https://github.com/Juanmorales177809/linkitOne)
 - Put the MS/UART slide switch to UART position and connect LinkIt ONE to PC.
 - Open Device Manager, the following COM ports will be displayed.
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Linkit-ONE/master/image/LinkIt_ONE_Wiki_Temp1.jpg)
 
-- Install driver from ..\LinkIt_ONE_IDE\drivers\mtk folder.
+- Install driver
 - After installing drivers, Device Manger should display the following two ports:
 
    **MTK USB Debug Port** used for uploading code.
@@ -174,7 +174,7 @@ The Sidekick Basic Kit for LinkIt ONE is designed to be used with your LinkIt ON
 
 **Software:**
 
-- [MediaTek_LinkIt_SDK_for_Ardunio](http://labs.mediatek.com/site/znch/developer_tools/mediatek_linkit/sdk_intro/index.gsp)
+- [MediaTek_LinkIt_SDK_for_Ardunio](https://github.com/Juanmorales177809/linkitOne/tree/main)
 
 **Datasheets and User Guides:**
 
@@ -187,7 +187,7 @@ The Sidekick Basic Kit for LinkIt ONE is designed to be used with your LinkIt ON
 
 **Getting Help**
 
-- [Seeedstudio LinkIt ONE Forum](http://www.seeed.cc/discover.html?t=linkit)
+- [Seeedstudio LinkIt ONE Forum](https://forum.seeedstudio.com/search?q=linkit%20one)
 
 
 **More**
