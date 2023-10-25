@@ -80,8 +80,7 @@ sku: 102030002
 
 ### Installing Drivers
 
-- Disable **Driver Signature Enforcement** if you are using Windows 10 OS. 
-- (https://github.com/Juanmorales177809/linkitOne)
+- Download driver (https://github.com/Juanmorales177809/linkitOne)
 - Put the MS/UART slide switch to UART position and connect LinkIt ONE to PC.
 - Open Device Manager, the following COM ports will be displayed.
 
@@ -98,13 +97,13 @@ sku: 102030002
 
 
 ### Updating Firmware
-The firmware of LinkIt ONE board needs to be updated once in a while. Latest LinkIt ONE SDK comes with a version of firmware.
+The firmware of LinkIt ONE board needs to be updated once in a while. Latest LinkIt ONE SDK comes with a version of firmware. 
 
 - Before starting the firmware update, make sure the slide switches are in proper position ( **MS/UART** should be in **MS** position. **USB/BAT** in **USB** position):
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Linkit-ONE/master/image/LinkItONEUpdateFirmware2.jpg)  
 
-- Run FirmwareUpdater.exe application from ..https://github.com/Juanmorales177809/linkitOne.
+- Run FirmwareUpdater.exe application from ..[  LinkIt SDK for Arduin](https://github.com/Juanmorales177809/linkitOne/tree/main/LinkIt/tools/linkit_tools/1.1.23).
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Linkit-ONE/master/image/400px-LinkItONEUpdateFirmware.jpg)  
 
@@ -147,22 +146,12 @@ LinkIt ONE accepts standard size SIM Card and Micro SD Card. Insert them as per 
 LinkIt ONE SDK comes with many examples / sample code to use peripherals like GSM, GPRS, WiFi, BT, Audio, GPS etc. Explore them first and read about API documentation. API documentation are available in [  User Guide ](http://labs.mediatek.com/fileMedia/download/5fed7907-b2ba-4000-bcb2-016a332a49fd) and [  API References site ](https://labs.mediatek.com/site/znch/developer_tools/mediatek_linkit/api_references/Core_Digital.gsp)
 
 
-## Compatible Groves and Shields for LinkIt ONE
-
-- We manufacture hundreds of Groves and Shields, including sensors, actuators, displays and other modules.
-- You can implement your ideas with those Groves and Shields easily.
-- But, LinkIt ONE does not support all of them.
-- We prepared a list of compatible Groves and Shields:
-
-[![](https://raw.githubusercontent.com/SeeedDocument/Linkit-ONE/master/image/400px-Compatible_Groves_and_Shields_for_LinkIt_ONE.png)](https://github.com/SeeedDocument/Linkit_ONE/raw/master/resource/LinkIt_ONE_Comparability_Test.xlsx)
 
 ## Tutorial of Sidekick Basic Kit for LinkIt ONE
 
 ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Linkit_ONE/master/image/350px-LinkitONESidebox.jpg)
 
 The Sidekick Basic Kit for LinkIt ONE is designed to be used with your LinkIt ONE board. This kit will help you quickly get along well with the platform of LinkIt. It includes many of the most popular accessories for DIY projects : like Breadboard, Jumper wires, Color LEDs, Resistors, Buzzer, etc. All these come in a handy box, which is easy to transport and mimimises clutter. The kit includes a complete guide that will familiarize you with a wide range of electronic components while you create small, simple, and easy-to-assemble circuits. There are 10 different courses outlined that will offer a best way for beginner to get familiar with LinkIt ONE.
-
-[![](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/get_one_now.png)](https://www.seeedstudio.com/item_detail.html?p_id=2027)
 
 - [The Basics](http://www.seeedstudio.com/wiki/LinkIt_ONE_Tutorial_-_The_Basics)
 - [Hello World](http://www.seeedstudio.com/wiki/LinkIt_ONE_Tutorial_-_Hello_World)
