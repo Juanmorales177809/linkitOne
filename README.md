@@ -103,14 +103,14 @@ The firmware of LinkIt ONE board needs to be updated once in a while. Latest Lin
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Linkit-ONE/master/image/LinkItONEUpdateFirmware2.jpg)  
 
-- Run FirmwareUpdater.exe application from ..[  LinkIt SDK for Arduin](https://github.com/Juanmorales177809/linkitOne/tree/main/LinkIt/tools/linkit_tools/1.1.23).
+- Run FirmwareUpdater.exe application from ..[  LinkIt UPDATER](https://github.com/Juanmorales177809/linkitOne/tree/main/LinkIt/tools/linkit_tools/1.1.23).
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Linkit-ONE/master/image/400px-LinkItONEUpdateFirmware.jpg)  
 
 - Click the button and then connect LinkIt ONE to PC. Wait for 1 minutes for the update to complete successfully.
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Linkit-ONE/master/image/400px-LinkItONEUpdateFirmware_ok.jpg)  
-### Uploading Code (Blinky)
+### Uploading Code (ANY)
 
 - The slide switches should be configured for firmware upload (i.e Put MS/UART in UART position and Power switch in USB position).
 
