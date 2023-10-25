@@ -1,0 +1,2 @@
+[autostart]
+App=C:\MRE\SPS30_BME280_ZE27_Ubidotsv2.ino.vxp
